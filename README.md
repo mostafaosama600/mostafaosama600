@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @mostafaosama600
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning and Working at sitegy ...
+- 👋 Hi, I’m Mostafa Osama => @mostafaosama600
+- 👀 I’m interested in music - coding - travelling - live life
+- 🌱 I’m currently learning and Working at Mostaql.com - Nafzley.com
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-mostafaosama600/mostafaosama600 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me : at this page you can find me easy =>  https://mostafaosama600.github.io/Discoverme/
