@@ -2,9 +2,9 @@
 I am a Frontend Developer (React js & Vue js) with experience building websites I'm working as a Freelancer top rated for Mostaql.com & Nafezly.com In addition to worked as a freelancer for
 
 
-a lot of companies like :
-loadServe , Itworkco , Valinteca ,
-Mostaql , Sitegy
+- ⭐ a lot of companies like :
+- loadServe , Itworkco , Valinteca ,
+- Mostaql , Sitegy
 
 - 🌱 I’m currently learning and Working at Mostaql.com - Nafzley.com
 - 📫 How to reach me : at this page you can find me easy =>  
