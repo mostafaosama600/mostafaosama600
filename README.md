@@ -13,3 +13,4 @@ I am a Frontend Developer (React js & Vue js) with experience building websites 
 
 
 - 👀 I’m interested in music - coding - travelling - live life
+
