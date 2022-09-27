@@ -3,9 +3,9 @@
 
 - ⭐ a lot of companies like :
 - loadServe , Itworkco , Valinteca 🇸🇦,
-- Mostaql , Sitegy , Frisell Consulting 
+- Mostaql , Sitegy
 
-- 🌱 I’m currently learning and Working at Mostaql.com - Nafzley.com
+- 🌱 I’m currently learning and Working at Frisell Consulting & Mostaql.com - Nafzley.com
 - 📫 How to reach me : at this page you can find me easy =>  
 
 - https://mostafaosama600.github.io/Discoverme/
