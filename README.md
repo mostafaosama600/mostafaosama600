@@ -1,5 +1,4 @@
-- 👋 Hi, I am Mostafa Osama
-I am a Frontend Developer (React js & Vue js) with experience building websites I'm working for Frisell Consulting 🇸🇪 & as a Freelancer top rated for Mostaql.com & Nafezly.com In addition to worked as a freelancer for
+- 👋 Hi, I am a Frontend Developer (React js & Vue js) with experience building websites I'm working for Frisell Consulting 🇸🇪 & as a Freelancer top rated for Mostaql.com & Nafezly.com In addition to worked as a freelancer for
 
 
 - ⭐ a lot of companies like :
