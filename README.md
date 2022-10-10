@@ -1,6 +1,6 @@
 - 👋 Hi, I am a Frontend Developer (React js & Vue js) with experience building websites I'm working for Frisell Consulting 🇸🇪 & as a Freelancer top rated on Mostaql.com & Nafezly.com
 
-In addition to worked as a freelancer for a lot of companies like :
+- In addition to worked as a freelancer for a lot of companies like :
 
 - loadServe , Itworkco , Valinteca 🇸🇦,
 - Mostaql , Sitegy
