@@ -16,6 +16,7 @@
 
 - 📫 How to reach me : at this page you can find me easy ✓
 
-- https://mostafaosama600.github.io/Discoverme/
+- mostafa.o@frisell.io
+
 - https://www.linkedin.com/in/mostafa-osama-34a23b214/
 
