@@ -19,10 +19,3 @@
 - https://mostafaosama600.github.io/Discoverme/
 - https://www.linkedin.com/in/mostafa-osama-34a23b214/
 
-  Or mail me at :
-
-- mostafa.o@frisell.io
-
-
-
-
