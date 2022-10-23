@@ -2,8 +2,7 @@
 
 - In addition to worked as a freelancer for a lot of companies like :
 
-- loadServe , Itworkco , Valinteca 🇸🇦,
-- Mostaql , Sitegy
+- loadServe , Itworkco , Valinteca 🇸🇦, Mostaql , Sitegy
 
 - 🌱 I’m currently learning and Working at Frisell Consulting & Mostaql.com
 
@@ -14,7 +13,7 @@
   ★ express js
 
 
-- 📫 How to reach me : at this page you can find me easy ✓
+- 📫 How to find me :
 
 - mostafa.o@frisell.io
 
