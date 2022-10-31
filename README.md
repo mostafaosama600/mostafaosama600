@@ -1,8 +1,9 @@
-- 👋 Hi, I am a Frontend Developer (React js & Vue js) with experience building websites I'm working for Frisell Consulting 🇸🇪 & as a Freelancer top rated on Mostaql.com
+- 👋 Hi,I am a Mid-level Frontend Developer (React js & Vue js) with experience building websites , now I'm working for Frisell Consulting 🇸🇪 and a top rated⭐ Freelancer in Mostaql.com
 
-- In addition to worked as a freelancer for a lot of companies like :
-
+In Addition to worked as a Freelancer for a lot of companies like :
 - loadServe , Itworkco , Valinteca 🇸🇦, Mostaql , Sitegy
+
+I specialize in Javascript and I have worked with React JS, Vue JS In addition, UI UX Design, and I have experience working with both responsive, dynamic pages and cross-browser compatibility, SPA.
 
 - 🌱 I’m currently learning and Working at Frisell Consulting & Mostaql.com
 
@@ -12,10 +13,8 @@
   ★ MonogoDB
   ★ express js
 
-
-- 📫 How to find me :
-
+- 📫 If you want to know more about me then please feel free to message me
+ 
 - mostafa.o@frisell.io
 
 - https://www.linkedin.com/in/mostafa-osama-34a23b214/
-
