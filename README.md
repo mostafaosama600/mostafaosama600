@@ -4,11 +4,3 @@
  loadServe , Itworkco , Valinteca 🇸🇦, Mostaql , Sitegy
 
 - 🌱 I’m currently learning and Working at Frisell Consulting & Mostaql.com
-
-- 📫 If you want to know more about me then please feel free to message me
-
-- https://www.linkedin.com/in/mostafa-osama-34a23b214/
-
-- https://mostaql.com/u/mostafaosama66
-
-- mostafa.o@frisell.io
