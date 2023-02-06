@@ -3,3 +3,4 @@
 - In Addition to worked as a Freelancer for a lot of companies like :
  loadServe , Itworkco , Valinteca 🇸🇦, Mostaql , Sitegy
 - I’m currently learning and Working at Frisell Consulting & Mostaql.com
+- check it out to reach me https://discovermee.netlify.app/
