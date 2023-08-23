@@ -1,5 +1,14 @@
-- Software Developer with experience building websites, now I'm working as a Frontend Developer (Reactjs & Vuejs) @ Frisell Consulting 🇸🇪 and a top rated⭐ Freelancer in Mostaql.com I specialize in Javascript and I have worked with Python, C++, Node JS, Express JS, MonogoDB, React JS, Vue JS, In addition, UI UX Design (Figma), and I have experience working with both responsive, dynamic pages and cross-browser compatibility, SPA.
+- Mern Stack Developer specializing in website development. Currently, I am employed as a Mid-level Frontend Developer (React.js & Next.js & Vue.js) @ Frisell Consulting, and I have consistently received Top-Ratings as a freelancer on Mostaql.com for the past two years. Make sure to check it out: mostaql.com/u/mostafaosama66
 
-- In Addition to worked as a Freelancer for a lot of companies like :
- loadServe , Itworkco , Valinteca 🇸🇦, Mostaql , Sitegy
-- I’m currently learning and Working at Frisell Consulting & Mostaql.com, check it out to reach me https://discovermee.netlify.app/
+- Throughout my career, I have collaborated with numerous companies, including:
+valinteca.com, mostaql.com, frisell.io
+loadserv.com.eg, itworkco.com
+(🇸🇦,🇦🇪,🇸🇪,🇪🇬)
+
+- delivering exceptional results. My expertise spans a wide range of programming languages such as Python, C++, JavaScript, Node.js, Express.js, and databases like MongoDB. Additionally, I am proficient in frameworks including React.js, Next.js, and Vue.js. Moreover, my skills extend to UI/UX design using Figma, and I am experienced in creating responsive, dynamic web pages with cross-browser compatibility and single-page applications.
+
+- If you require more information about my qualifications, please do not hesitate to contact me.
+Thank you in advance.
+https://discovermee.netlify.app/
+
+
