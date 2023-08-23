@@ -1,7 +1,7 @@
 - Mern Stack Developer specializing in website development. Currently, I am employed as a Mid-level Frontend Developer (React.js & Next.js & Vue.js) @ Frisell Consulting, and I have consistently received Top-Ratings as a freelancer on Mostaql.com for the past two years. Make sure to check it out: [my account](https://mostaql.com/u/mostafaosama66)
 
-- Throughout my career, I have collaborated with numerous companies, including:
-[valinteca](https://valinteca.com/), [mostaql](https://mostaql.com/), [frisell Consulting](https://frisell.io/)
+- Throughout my career, I have collaborated with numerous companies.
+including: [valinteca](https://valinteca.com/), [mostaql](https://mostaql.com/), [frisell Consulting](https://frisell.io/)
 [loadserv](https://www.loadserv.com.eg/)
 (🇸🇦,🇦🇪,🇸🇪,🇪🇬)
 
