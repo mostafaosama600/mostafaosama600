@@ -5,7 +5,5 @@ including: [valinteca](https://valinteca.com/), [mostaql](https://mostaql.com/),
 
 - delivering exceptional results. My expertise spans a wide range of programming languages such as Python, C++, JavaScript, Node.js, Express.js, and databases like MongoDB. Additionally, I am proficient in frameworks including React.js, Next.js, and Vue.js. Moreover, my skills extend to UI/UX design using Figma, and I am experienced in creating responsive, dynamic web pages with cross-browser compatibility and single-page applications.
 
-- If you require more information about my qualifications, please do not hesitate to contact me.
+- If you require more information about my qualifications, please do not hesitate to [contact me (https://discovermee.netlify.app/).
 Thank you in advance.
-[contact me](https://discovermee.netlify.app/)
-
