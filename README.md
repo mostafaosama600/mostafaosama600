@@ -1,4 +1,4 @@
-I'm Mustafa Osama, a front-end and back-end developer with experience in creating websites.
+I'm Mostafa Osama, a Frontend Engineer with experience in creating websites.
 
 ⏪ Who am I?
 
