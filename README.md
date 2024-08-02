@@ -17,7 +17,7 @@ I have comprehensive skills in analyzing ideas and converting them into designs,
 - Creating informational websites
 - Creating social networking sites
 - Creating medical websites
-- Creating delivery websites similar to Uber and Careem
+- Creating delivery websites similar to Uber
 - Creating freelance job websites
 - Creating restaurant management websites
 - Creating hotel management websites
