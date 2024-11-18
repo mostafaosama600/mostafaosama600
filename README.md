@@ -34,6 +34,6 @@ Thank you in advance for your trust. I am excited to work with you and help you 
 
 Make sure to check it out:
 - [my account](https://mostaql.com/u/mostafaosama66)
-- [contact me](https://discovermee.netlify.app/).
+- [contact me](https://discovermee.vercel.app/).
 
 Thank you in advance.
