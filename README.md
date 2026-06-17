@@ -33,7 +33,6 @@ I have delivered exceptional results, with my experience encompassing a wide ran
 Thank you in advance for your trust. I am excited to work with you and help you achieve your goals and vision.
 
 Make sure to check it out:
-- [my account](https://mostaql.com/u/mostafaosama66)
 - [contact me](https://discovermee.vercel.app/).
 
 Thank you in advance.
