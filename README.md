@@ -2,7 +2,7 @@ I'm Mostafa Osama, a Frontend Engineer with experience in creating websites.
 
 ⏪ Who am I?
 
-I specialize in developing and designing websites, with over 3 years of experience in the field. I have consistently received high ratings as a freelancer on a freelancing platform over the past two years. You can check my profile to see the ratings and view the latest 5 projects from my previous work.
+I specialize in developing and designing websites, with over 5 years of experience in the field. I have consistently received high ratings as a freelancer on a freelancing platform over the past two years. You can check my profile to see the ratings and view the latest 5 projects from my previous work.
 
 ⏪ My Experience?
 
